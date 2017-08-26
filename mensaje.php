@@ -5,7 +5,9 @@
 	<body>
 		<?php
 		$nombre = "Vicente Monfort"
+		$edad = " 40 años"
 		echo $nombre;
+		echo $edad
 		?>
 	</body>
 </html>
