@@ -4,8 +4,8 @@
 	</head>
 	<body>
 		<?php
-		
-		echo "Hola mundo";
+		$nombre = "Vicente Monfort"
+		echo $nombre;
 		?>
 	</body>
 </html>
